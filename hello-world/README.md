@@ -1,13 +1,9 @@
 [![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
 
-# Datalayer Experiments Rust
-
-- https://www.rust-lang.org
-
-- https://levelup.gitconnected.com/rust-with-visual-studio-code-46404befed8
+# Datalayer Experiments Rust Hello Wolrd
 
 ```bash
-cargo new HelloWorld
+cargo new helloworld
 ```
 
 https://www.tutorialspoint.com/rust/rust_environment_setup.htm
