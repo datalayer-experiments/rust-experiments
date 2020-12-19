@@ -1,0 +1,14 @@
+[package]
+authors = ["PyO3 Authors"]
+name = "rustapi-module"
+version = "0.1.0"
+description = "A Python wrapper for the Rust API for purposes of testing"
+edition = "2018"
+
+[dependencies.pyo3]
+pyo3 = "0.12.4"
+features = ["extension-module"]
+
+[lib]
+name = "rustapi_module"
+crate-type = ["cdylib"]
