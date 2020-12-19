@@ -1,6 +1,6 @@
 [![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
 
-# Datalayer Experiments Rust Javascript
+# Rust Javascript
 
 - https://blog.logrocket.com/getting-started-with-webassembly-and-rust
 - https://dev.to/jor/rust-wasm-browser-nodejs-2bo6

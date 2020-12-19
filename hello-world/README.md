@@ -1,6 +1,6 @@
 [![Datalayer](https://raw.githubusercontent.com/datalayer/datalayer/main/res/logo/datalayer-25.svg?sanitize=true)](https://datalayer.io)
 
-# Datalayer Experiments Rust Hello Wolrd
+# Rust Hello Wolrd
 
 ```bash
 cargo new helloworld
