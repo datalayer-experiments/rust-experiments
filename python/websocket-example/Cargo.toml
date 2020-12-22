@@ -1,0 +1,25 @@
+[package]
+name = "websocket-example"
+version = "0.1.0"
+authors = ["Pierre-Olivier Simonard <pierre.olivier.simonard@gmail.com>"]
+edition = "2018"
+
+
+[websocket_example]
+name = "websocket_example"
+crate-type = ["cdylib"]
+
+
+[dependencies]
+tungstenite = "0.11.1"
+ctrlc = "3.1.7"
+exitcode = "1.1.2"
+
+[dependencies.pyo3]
+git = "https://github.com/PyO3/pyo3/"
+tag = "v0.12.4"
+features = ["extension-module"]
+
+[lib]
+name = "websocket_example"
+crate-type = ["cdylib"]
