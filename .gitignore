@@ -20,6 +20,7 @@ __pycache__
 *.profraw
 *.tsbuildinfo
 *.egg-info
+*.so
 
 **/data-server
 **/client-docs.json
